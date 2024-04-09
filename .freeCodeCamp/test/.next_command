@@ -2,3 +2,4 @@
 ./insert_data.sh
 ls --color=auto
 rm students_test.csv
+rm courses_test.csv
