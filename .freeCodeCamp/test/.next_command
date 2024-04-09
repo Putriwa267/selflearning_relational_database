@@ -1,3 +1,4 @@
 ./insert_data.sh
 ./insert_data.sh
 ls --color=auto
+rm students_test.csv
